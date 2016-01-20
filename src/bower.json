@@ -1,0 +1,19 @@
+{
+  "name": "hr-pelican-theme",
+  "homepage": "https://github.com/hackrole/my-pelican-theme",
+  "authors": [
+    "hackrole <daipeng123456@gmail.com>"
+  ],
+  "description": "my pelican blog themes",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "pelican",
+    "theme"
+  ],
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "bootstrap": "v3.3.6"
+  }
+}
